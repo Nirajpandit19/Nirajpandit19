@@ -9,7 +9,7 @@
 
 | Domain | Expertise |
 | :--- | :--- |
-| **Cloud Platforms** | [cite_start]AWS (EKS, EC2, S3, VPC, CloudFront, Amplify, CloudFormation) [cite: 8] |
+| **Cloud Platforms** | [cite_start]AWS (EKS, EC2, S3, VPC, CloudFront, Amplify, CloudFormation)  |
 | **Orchestration** | [cite_start]Kubernetes (EKS, Minikube), Helm, Docker, Docker Compose [cite: 8] |
 | **IaC & Automation** | [cite_start]Terraform (HCL), Ansible, Jenkins (Declarative), AWS CodePipeline [cite: 8, 35] |
 | **Security (DevSecOps)** | [cite_start]Trivy (Vulnerability Scanning), SonarQube (SCA), IAM Least Privilege [cite: 8, 21, 30] |
